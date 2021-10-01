@@ -93,13 +93,58 @@ Estos comentarios se suelen emplear para generar una página de documentación p
 
 
 
+# Tema 2 - Ejercicios 
+
+1) Investiga por tu cuenta dos aplicaciones, webs o videojuegos populares creados con java.
+
+-Minecraft y NASA World Wind fueron hechos en Java
+
+<br>
+
+2) ¿Para que sirve el archivo manifest de la carpeta META-INF?
+
+Este tiene la metadata del archivo .jar
+
+<br>
+3) Explica con tus propias palabras que conceptos intenta explicar la documentación  <br>
+
+4) ¿Que son la documentación externa e interna? ¿Crees que son necesarias? ¿ Por que? <br>
+
+La documentación intenta explicar cosas variadas dependiendo de su tipo (interna o externa). Si la documentación es interna,
+entonces lo que el desarrollador va a explicar son fragmentos de código, variables, funciones, objetos, entre otros. También se puede 
+emplear para generar documentación de referencia.
+
+Si la documentación es externa, se suele ofrecer mediante esta:
+
+-Manual de usuario
+-Instrucciones de instalación
+-Especificaciones del proyecto
+
+<br>
+
+5)
+ Comenta este método usando comentarios de documentación.
 
 
+```java
 
+/**
+    * Con este método sumamos dos enteros.
+    * @param a Primer parametro que se pasa
+    * @param b Segundo parametro que se pasa
+    * @return c devuelve la suma
+    *
+	* @author  Lucia Beron
+	* @version 1.0
+	* @since   2021-10-01
+    */
 
+    public static int sumar(int a, int b){
+           int c;
+           c = a + b;
+           return c;
+    }
 
-
-
-
+```
 
 
