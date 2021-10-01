@@ -15,7 +15,7 @@ Actualmente, este es usado en diversas plataformas como:
 Para que un dispositivo pueda ejecutar un programa java, este debe tener instalado una JVM (Java Virtual Machine).
 
 Java adopta muchas características de C++ (por suerte fue el que aprendí primero).
-<br> <br>
+<hr>
 <h3> Características de Java </h3> 
 
 <b>Todo en Java es un objeto </b>
@@ -28,7 +28,7 @@ Java adopta muchas características de C++ (por suerte fue el que aprendí prime
 
 <li>Es el encargado de liberar la memoria</li>
 <li>El desarrollador puede crear objetos, añadirle o quitarle referencias </li>
-<li>Cuando un objeto pierde todas sus referencias, el recolector de basura se encarga de liberar la memoria sujeta a ese objeto</li> <br>
+<li>Cuando un objeto pierde todas sus referencias, el recolector de basura se encarga de liberar la memoria sujeta a ese objeto</li> <hr>
 
 <b>JVM (Java Virtual Machine) </b>
 <li> Herramienta que traduce nuestro código para que el procesador del ordenador lo entienda </li> <br>
