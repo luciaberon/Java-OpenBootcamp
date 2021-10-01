@@ -15,7 +15,7 @@ Actualmente, este es usado en diversas plataformas como:
 Para que un dispositivo pueda ejecutar un programa java, este debe tener instalado una JVM (Java Virtual Machine).
 
 Java adopta muchas características de C++ (por suerte fue el que aprendí primero).
-<br>
+<br> <br>
 <h3> Características de Java </h3> 
 
 <b>Todo en Java es un objeto </b>
