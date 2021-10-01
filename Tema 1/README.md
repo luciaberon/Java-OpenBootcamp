@@ -28,11 +28,11 @@ Java adopta muchas características de C++ (por suerte fue el que aprendí prime
 
 <li>Es el encargado de liberar la memoria</li>
 <li>El desarrollador puede crear objetos, añadirle o quitarle referencias </li>
-<li>Cuando un objeto pierde todas sus referencias, el recolector de basura se encarga de liberar la memoria sujeta a ese objeto</li> <hr>
+<li>Cuando un objeto pierde todas sus referencias, el recolector de basura se encarga de liberar la memoria sujeta a ese objeto</li> 
 
 <b>JVM (Java Virtual Machine) </b>
-<li> Herramienta que traduce nuestro código para que el procesador del ordenador lo entienda </li> <br>
-
+<li> Herramienta que traduce nuestro código para que el procesador del ordenador lo entienda </li> 
+<hr>
 <h3> Herramientas de desarrollo </h3>
 
 <li> JDK - Java development Kit: contiene compilador, JVM, etc. </li>
