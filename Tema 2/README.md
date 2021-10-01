@@ -63,7 +63,8 @@ y por último cerraríamos el comentario */
 
 Estos comentarios se suelen emplear para generar una página de documentación para referencia.
 
-<code>
+```java
+
 
 /**
     * Con este método cagemos tres enteros y sacamos su media.
@@ -81,8 +82,7 @@ Estos comentarios se suelen emplear para generar una página de documentación p
         return (a + b + c)/3;
     }
 
-
-</code>
+```
 
 
 <a href="https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html">Información sobre los comentarios de documentación</a>
