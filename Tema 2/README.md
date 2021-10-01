@@ -105,7 +105,7 @@ Estos comentarios se suelen emplear para generar una página de documentación p
 
 Este tiene la metadata del archivo .jar
 
-<br>
+
 3) Explica con tus propias palabras que conceptos intenta explicar la documentación  <br>
 
 4) ¿Que son la documentación externa e interna? ¿Crees que son necesarias? ¿ Por que? <br>
@@ -122,8 +122,7 @@ Si la documentación es externa, se suele ofrecer mediante esta:
 
 <br>
 
-5)
- Comenta este método usando comentarios de documentación.
+5) Comenta este método usando comentarios de documentación.
 
 
 ```java
