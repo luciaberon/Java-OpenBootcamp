@@ -33,16 +33,18 @@ Se encuentra en el código. Suele ser breve, y se encuentra contenida en comenta
 
 <h5> Comentarios en una línea </h5>
 
-<code>
+```java
+
 //voy a crear una variable hola
 
 String hola;
-</code>
+
+```
 
 <h5> Comentarios de varias líneas </h5>
 
 
-<code>
+```java
 
 /* El comentario empezaria aquí
 
@@ -53,11 +55,13 @@ y por aqui
 
 y por último cerraríamos el comentario */
 
-</code>
+```
 
-<code>
+
+```java
 /* El comentario empezaria y terminaría aquí */
-</code>
+```
+
 
 <h5> Comentarios de la documentación </h5>
 
