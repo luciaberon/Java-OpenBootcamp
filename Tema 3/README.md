@@ -7,9 +7,7 @@ Las variables son espacios de memoria en el que guardamos un determinado valor.
 Sintaxis para definir variable:
 
 ```
-
 Tipo nombreVariable [= valorInicial];
-
 ```
 
 "valorInicial" se encuentra entre corchetes debido a que es opcional. 
@@ -21,7 +19,6 @@ Si se le asigna un valor inicial, entonces es <b>inicializada</b>.
 ```
 tipo nombreVariable; //Declaramos la variable
 nombreVariable = valorInicial //La inicializamos despues de declararla
-
 ```
 
 La forma en la que nombramos variables sigue estándares que varían según el lenguaje de programación usado.
@@ -30,10 +27,7 @@ En el caso de Java, la forma de nombrar variables es por camelCase. La primer pa
 
 
 ```java
-
 String nombreDeVariable = "He declarado una variable."
-
-
 ```
 
 Tipos de variables:
