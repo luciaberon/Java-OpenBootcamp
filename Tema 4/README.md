@@ -15,6 +15,7 @@ Para declarar una función se utiliza la siguiente sintaxis:
   return valor;
 }
 ```
+<br>
 <li>Modificador de acceso: puede ser public or private. Indica el ámbito de la función. 
     <li>Si es public, todas las clases tienen acceso a ella.</li>
     <li>Si es protected, sólo se tiene acceso a ella desde la propia clase que lo define y las que heredan de él</li>
@@ -24,7 +25,7 @@ Para declarar una función se utiliza la siguiente sintaxis:
 <li>Modificador: si es static, entonces pertenece a la clase. Si es final no admitirá cambios después de su declaración y asignación de valor.</li>
 <li>Tipo: indica el valor de retorno (int, double, string, etc)</li>
 <li>Nombre de la función: será el nombre que le asignemos para invocarla</li>
-<li>Parámetros: valores que recibe la función por parte del código que la llama. Pueden ser tipos simples u objetos</li>
+<li>Parámetros: valores que recibe la función por parte del código que la llama. Pueden ser tipos simples u objetos</li><br>
 
 
 Para usar una función tenemos que en el main de nuestro proyecto llamar a la función
