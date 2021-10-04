@@ -12,7 +12,7 @@ Es un si condicional, en el que si se cumple la condición se ejecuta el código
 
 En caso de que no se cumpla, se ejecutará el código dentro del bloque else (este es opcional).
 
-```
+```java
 if (condición) {
   //Si se cumple la condicón se ejecutará este bloque de código
 } else {
@@ -24,14 +24,16 @@ if (condición) {
 
 Un bucle es una secuencia que se repite hasta que la condición determinada deje de cumplirse.
 
-<li>While: la secuencia se repite infinitamente hasta que la condición sea falsa</li>
-<li>For: la secuencia se repite un número determinado de veces</li>
+<li>While: la secuencia se repite infinitamente hasta que la condición sea falsa</li> <br>
+<li>For: la secuencia se repite un número determinado de veces</li> <br>
+
 ```
 for (inicialización ; condición ; incremento) {
  Sentencias a ejecutar en bucle
 }
+
 ```
-<li>Foreach: es una forma más limpia para recorrer estructuras</li>
+<li>Foreach: es una forma más limpia para recorrer estructuras</li> <br>
 
 ```
 for (tipo nombreVariable : nombreArray) {
@@ -39,7 +41,7 @@ for (tipo nombreVariable : nombreArray) {
 }
 ```
 
-<li>Do while: es similar al bucle while, pero la secuencia se ejecuta al menos una vez antes de evaluar la condición</li>
+<li>Do while: es similar al bucle while, pero la secuencia se ejecuta al menos una vez antes de evaluar la condición</li> <br>
 
 ```
 do {
@@ -49,7 +51,7 @@ do {
 ```
 
 
-<li>Switch: recibe un valor y establece varias condiciones. Se ejecutará el caso de la condición cumplida. Si no se cumple ninguna se puede agregar de forma opcional un caso "default"</li>
+<li>Switch: recibe un valor y establece varias condiciones. Se ejecutará el caso de la condición cumplida. Si no se cumple ninguna se puede agregar de forma opcional un caso "default"</li> <br>
 
 ```
 switch (operacion) {
