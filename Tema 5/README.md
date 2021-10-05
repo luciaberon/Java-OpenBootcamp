@@ -53,7 +53,7 @@ do {
 
 <li>Switch: recibe un valor y establece varias condiciones. Se ejecutará el caso de la condición cumplida. Si no se cumple ninguna se puede agregar de forma opcional un caso "default"</li> <br>
 
-```
+```java
 switch (operacion) {
   case 0:
     // Sumar
